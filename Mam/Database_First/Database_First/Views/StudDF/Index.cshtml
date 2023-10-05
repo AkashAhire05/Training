@@ -1,0 +1,45 @@
+﻿@model List<StudDF>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<table class="table table-striped table-bordered tab">
+
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th></th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+           <td>@item.Stud_id</td>
+           <td>@item.Name</td>
+           <td>@item.Address</td>
+           <td> <div  btn-primary">
+                    <a asp-controller="StudDF" asp-action="View" asp-route-id="@item.Stud_id" class="btn btn-outline-primary border  form-control">
+                        Edit
+                    </a>
+                </div>
+                </td>
+
+                 <td>
+                    <div class="col-6 col-md-5 ">
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Stud_id})   
+                        <a asp-action="Delete" asp-controller="studDF" id="@item.Stud_id" class="btn btn-outline-danger border  form-control"> Delete</a>
+                    </div>
+
+                    
+            </td >
+        </tr> 
+        }
+       
+    </tbody>
+</table>
