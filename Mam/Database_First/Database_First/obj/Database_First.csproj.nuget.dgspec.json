@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trellis\\Documents\\GitHub\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj": {}
+    "C:\\Users\\trellis\\Desktop\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trellis\\Documents\\GitHub\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj": {
+    "C:\\Users\\trellis\\Desktop\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trellis\\Documents\\GitHub\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj",
+        "projectUniqueName": "C:\\Users\\trellis\\Desktop\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj",
         "projectName": "Database_First",
-        "projectPath": "C:\\Users\\trellis\\Documents\\GitHub\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj",
+        "projectPath": "C:\\Users\\trellis\\Desktop\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj",
         "packagesPath": "C:\\Users\\trellis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trellis\\Documents\\GitHub\\Training\\Mam\\Database_First\\Database_First\\obj\\",
+        "outputPath": "C:\\Users\\trellis\\Desktop\\Training\\Mam\\Database_First\\Database_First\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trellis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
