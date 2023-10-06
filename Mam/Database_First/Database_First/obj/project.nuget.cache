@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bivdd1Vw79SmNgnQeOeECB6c6V+yeYrXve1QwcwF4VD9ezFDOfZ8HZAJ7MtM860he1DiRKDJvNFZpzXiswIGcg==",
+  "dgSpecHash": "LJU9WCfS6G/CI53lDGCEGViCvKHy1wZ28MnJ1IyOYiXXxexNJyEm9lsdr/It/HYQuBMte11VI1s1p2Kxh3o9yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trellis\\Documents\\GitHub\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj",
+  "projectFilePath": "C:\\Users\\trellis\\Desktop\\Training\\Mam\\Database_First\\Database_First\\Database_First.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trellis\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\trellis\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
